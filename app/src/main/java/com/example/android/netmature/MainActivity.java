@@ -125,7 +125,7 @@ public class MainActivity extends ActionBarActivity {
             }
         }
     }
-    // ggfddfggf
+    // ggfddfggfff
         public String readIt(InputStream stream, int len) throws IOException, UnsupportedEncodingException {
             Reader reader = null;
             reader = new InputStreamReader(stream, "UTF-8");
